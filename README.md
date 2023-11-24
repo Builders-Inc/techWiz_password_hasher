@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 # WELCOME TO techWiz For encrypting and decrypting user passwords
@@ -12,6 +13,23 @@ NOTE: This project is for practice.
 techWiz
 
 ````
+=======
+# techWiz_password_hasher
+#WELCOME TO techWiz
+For hashing and unhashing user passwords
+
+#OBJECTIVES
+
+    *The aim of this project is to hash and unhash user passwords.
+
+NOTE: This project is for practice.
+
+#PROJECT STRUCTURE
+
+techWiz
+```|──.mvn
+
+>>>>>>> 72e015ff091e40d60ecd110b4ee556701685981b
 |── src
 │          ├── main
 │            │ └── java
@@ -32,7 +50,11 @@ techWiz
 │   │              └── interfaces
 │                      └── HashService.java
 │   │           └── techWizApplication.java
+<<<<<<< HEAD
 ├──resources
+=======
+            ├──resources
+>>>>>>> 72e015ff091e40d60ecd110b4ee556701685981b
 ├──test
 ├── gitignore/
 ├── HELP.md/
@@ -44,4 +66,10 @@ techWiz
 =======
 ├── techWiz.iml/
 ├── README.md
+<<<<<<< HEAD
 └── LICENSE
+=======
+└── LICENSE
+```
+
+>>>>>>> 72e015ff091e40d60ecd110b4ee556701685981b

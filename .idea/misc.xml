@@ -3,7 +3,11 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/techwiz/pom.xml" />
+=======
+        <option value="$PROJECT_DIR$/techWiz/pom.xml" />
+>>>>>>> 72e015ff091e40d60ecd110b4ee556701685981b
       </list>
     </option>
   </component>
