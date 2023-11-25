@@ -22,6 +22,7 @@ public class User {
 
     @NotBlank(message = "Username cannot be blank")
     private String username;
+
     @NotBlank(message = "Username cannot be blank")
     private String encryptedPassword;
 }
