@@ -18,13 +18,13 @@ techWiz
 =======
 # techWiz_password_hasher
 #WELCOME TO techWiz
-For hashing and unhashing user passwords
+For encrypting and decrypting user passwords
 
 #OBJECTIVES
 
-    *The aim of this project is to hash and unhash user passwords.
+    *The aim of this project is to encrypt and decrypt user passwords.
 
-NOTE: This project is for practice.
+NOTE: This project is meant for practice.
 
 #PROJECT STRUCTURE
 
