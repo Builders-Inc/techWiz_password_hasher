@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/.idea/techWiz_password_hasher.iml" filepath="$PROJECT_DIR$/.idea/techWiz_password_hasher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/techwiz/techwiz.iml" filepath="$PROJECT_DIR$/techwiz/techwiz.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/techWiz/techWiz.iml" filepath="$PROJECT_DIR$/techWiz/techWiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/techWiz_password_hasher.iml" filepath="$PROJECT_DIR$/.idea/techWiz_password_hasher.iml" />
+>>>>>>> 72e015ff091e40d60ecd110b4ee556701685981b
+    </modules>
+  </component>
+</project>

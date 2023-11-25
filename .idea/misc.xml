@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/techwiz/pom.xml" />
+=======
+        <option value="$PROJECT_DIR$/techWiz/pom.xml" />
+>>>>>>> 72e015ff091e40d60ecd110b4ee556701685981b
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>
