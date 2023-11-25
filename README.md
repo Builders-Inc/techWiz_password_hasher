@@ -8,6 +8,8 @@
 *The aim of this project is to encrypt and decrypt user passwords.
 NOTE: This project is for practice.
 
+# java version: 21
+
 # PROJECT STRUCTURE
 
 techWiz
